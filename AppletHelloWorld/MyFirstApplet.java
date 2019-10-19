@@ -18,6 +18,7 @@ public class MyFirstApplet extends Applet {
      *
      * @param g
      */
+
     public void draw(Graphics g) {
         g.drawString("Greetings", 10, 100);
     }
